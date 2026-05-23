@@ -1,0 +1,621 @@
+@media (max-width: 1200px) {
+    .first-section .first-container {
+        width: 90%;
+    }
+
+    .navbar {
+        width: 90%;
+    }
+
+    .logo {
+        right: 30px;
+    }
+
+    .Subscripe-Now {
+        left: 30px;
+    }
+
+    .left-section {
+        left: 50px;
+    }
+
+    .img-container {
+        left: 100px;
+    }
+
+    .featured {
+        left: 480px;
+    }
+
+    .second-container {
+        width: 90%;
+    }
+
+    .a-container {
+        width: 100%;
+    }
+
+    .third-container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 992px) {
+    .navbar {
+        width: 95%;
+        justify-content: space-between;
+        padding: 0 15px;
+    }
+
+    .logo {
+        right: 0;
+        font-size: 20px;
+    }
+
+    .Subscripe-Now {
+        left: 0;
+    }
+
+    .containt {
+        flex-direction: column;
+    }
+
+    .left-section {
+        left: 0;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .Trending-now {
+        margin: 0 auto 10px auto;
+    }
+
+    .trending-pg {
+        width: 100%;
+        margin: 15px auto;
+    }
+
+    .fbuttons {
+        justify-content: center;
+    }
+
+    .right-section {
+        margin-top: 30px;
+    }
+
+    .img-container {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 0;
+        margin-bottom: 30px;
+    }
+
+    .featured {
+        left: auto;
+        right: 20px;
+        top: -10px;
+    }
+
+    .second-container {
+        flex-direction: column;
+    }
+
+    .second-Left {
+        width: 100%;
+    }
+
+    .latest-article {
+        right: 0;
+    }
+
+    .a-container {
+        width: 95%;
+        margin: 0 auto 20px auto;
+    }
+
+    .load-container {
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 40px;
+    }
+
+    .tren-container {
+        width: 95%;
+        margin: 20px auto;
+    }
+
+    .second-trending-now {
+        width: 100%;
+    }
+
+    .cat-container {
+        width: 95%;
+        margin: 20px auto;
+    }
+
+    .CATEGORIES {
+        width: 100%;
+    }
+
+    .third-container {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        gap: 40px;
+    }
+
+    .rab-cont {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    .rabels-item,
+    .rabels-item1,
+    .rabels-item2 {
+        position: relative;
+        bottom: 0;
+        right: 0;
+    }
+
+    .FOUNDER,
+    .LEAD,
+    .VIRALL {
+        left: auto;
+        right: 20px;
+        bottom: auto;
+        top: 10px;
+    }
+
+    .fourth-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .left-fourth-container {
+        width: 90%;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .thousands {
+        width: 100%;
+        margin: 15px auto;
+    }
+
+    .check,
+    .discord,
+    .star,
+    .pencil {
+        text-align: left;
+    }
+
+    .jon-contt {
+        margin: 20px auto;
+    }
+
+    .rg-cont {
+        width: 90%;
+    }
+
+    .footer-container {
+        width: 90%;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .sec-1,
+    .sec-2,
+    .sec-3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .sec-3 input,
+    .sec-3 .subscripe {
+        width: 80%;
+        max-width: 280px;
+    }
+
+    hr {
+        width: 90%;
+    }
+
+    .sec-4 {
+        width: 90%;
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .list ul {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .first-section {
+        height: auto;
+        padding-bottom: 40px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        height: auto;
+        padding: 15px;
+        gap: 10px;
+    }
+
+    .navbar ul {
+        flex-wrap: wrap;
+    }
+
+    .navbar ul li {
+        padding: 5px 10px;
+    }
+
+    .BRUTAL,
+    .THOUGHTS,
+    .BOLD-IDEAS {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .trending-pg {
+        font-size: 16px;
+        line-height: 26px;
+        height: auto;
+    }
+
+    .start-container,
+    .watch-container {
+        margin: 5px;
+    }
+
+    .start,
+    .watch {
+        font-size: 14px;
+        width: 160px;
+    }
+
+    .watch-container {
+        width: 160px;
+    }
+
+    .img-container {
+        width: 90%;
+        height: auto;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .img-container img {
+        width: 100%;
+        height: auto;
+        position: relative;
+        bottom: 0;
+        right: 0;
+    }
+
+    .featured {
+        top: -20px;
+        right: 10px;
+    }
+
+    .second-head {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .latest-article {
+        text-align: center;
+    }
+
+    .fresh-content {
+        margin: 0 auto;
+    }
+
+    .article-item-container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .article-item img {
+        margin: 20px auto 0 auto;
+    }
+
+    .new,
+    .hot,
+    .viral {
+        bottom: auto;
+        top: 10px;
+        left: 20px;
+    }
+
+    .article-text {
+        padding: 0 15px;
+    }
+
+    .tech,
+    .design,
+    .culture {
+        margin: 0 auto;
+    }
+
+    .icons {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    }
+
+    .first-num {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .num,
+    .num1,
+    .num2 {
+        margin-right: 0;
+    }
+
+    .meet {
+        font-size: 36px;
+    }
+
+    .rebels {
+        font-size: 16px;
+        padding: 0 20px;
+    }
+
+    .rab-cont {
+        width: 90%;
+    }
+
+    .part {
+        font-size: 24px;
+    }
+
+    .thousands {
+        height: auto;
+    }
+
+    .right-fourth-container {
+        position: relative;
+        bottom: 0;
+        right: 0;
+    }
+
+    .saying,
+    .saying1,
+    .saying2 {
+        width: 90%;
+    }
+
+    .finally {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .logo {
+        font-size: 18px;
+    }
+
+    .logo span {
+        font-size: 14px;
+    }
+
+    .Subscripe-Now {
+        font-size: 10px;
+    }
+
+    .BRUTAL,
+    .THOUGHTS,
+    .BOLD-IDEAS {
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .trending-pg {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 8px;
+    }
+
+    .start-container,
+    .watch-container {
+        width: 140px;
+    }
+
+    .start,
+    .watch {
+        width: 140px;
+        font-size: 12px;
+    }
+
+    .watch-container {
+        width: 140px;
+    }
+
+    .featured {
+        font-size: 12px;
+        width: 70px;
+        height: 28px;
+        padding: 2px;
+    }
+
+    .article-item img {
+        width: 80px;
+        height: 60px;
+    }
+
+    .article-text h3 {
+        font-size: 16px;
+    }
+
+    .article-text p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .icons {
+        font-size: 9px;
+    }
+
+    .Load,
+    .load-container {
+        width: 250px;
+    }
+
+    .Load {
+        font-size: 14px;
+    }
+
+    .meet {
+        font-size: 28px;
+    }
+
+    .rabels-item,
+    .rabels-item1,
+    .rabels-item2 {
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .alex,
+    .Arnold,
+    .MIKE {
+        font-size: 20px;
+    }
+
+    .Destroying {
+        font-size: 12px;
+        line-height: 20px;
+        padding: 0 10px;
+    }
+
+    .FOUNDER,
+    .LEAD,
+    .VIRALL {
+        font-size: 8px;
+        width: 55px;
+        height: 16px;
+        right: 10px;
+        top: 5px;
+    }
+
+    .part {
+        font-size: 20px;
+    }
+
+    .thousands {
+        font-size: 12px;
+        line-height: 20px;
+        padding: 10px;
+    }
+
+    .check,
+    .discord,
+    .star,
+    .pencil {
+        font-size: 12px;
+    }
+
+    .SAYING {
+        font-size: 16px;
+        margin: 15px;
+    }
+
+    .markk {
+        font-size: 12px;
+    }
+
+    .senior {
+        font-size: 10px;
+    }
+
+    .footer {
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .sec-3 input,
+    .sec-3 .subscripe {
+        width: 90%;
+    }
+
+    .subscripe {
+        font-size: 12px;
+    }
+
+    .sec-4 div {
+        font-size: 8px;
+    }
+
+    .list ul li {
+        font-size: 8px;
+        margin-left: 8px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .BRUTAL,
+    .THOUGHTS,
+    .BOLD-IDEAS {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .trending-pg {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .start-container,
+    .watch-container {
+        width: 120px;
+    }
+
+    .start,
+    .watch {
+        width: 120px;
+        font-size: 10px;
+    }
+
+    .watch-container {
+        width: 120px;
+    }
+
+    .article-item h3 {
+        font-size: 14px;
+    }
+
+    .icons div {
+        font-size: 8px;
+    }
+
+    .meet {
+        font-size: 24px;
+    }
+
+    .rebels {
+        font-size: 12px;
+    }
+
+    .part {
+        font-size: 18px;
+    }
+
+    .SAYING {
+        font-size: 14px;
+    }
+}
